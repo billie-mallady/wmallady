@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
- ██████ ╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
- ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
- ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝ 
- ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗ 
- ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
-  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+.______    __   __       __       __   _______    .___  ___.      ___       __       __          ___       _______  ____    ____ 
+|   _  \  |  | |  |     |  |     |  | |   ____|   |   \/   |     /   \     |  |     |  |        /   \     |       \ \   \  /   / 
+|  |_)  | |  | |  |     |  |     |  | |  |__      |  \  /  |    /  ^  \    |  |     |  |       /  ^  \    |  .--.  | \   \/   /  
+|   _  <  |  | |  |     |  |     |  | |   __|     |  |\/|  |   /  /_\  \   |  |     |  |      /  /_\  \   |  |  |  |  \_    _/   
+|  |_)  | |  | |  `----.|  `----.|  | |  |____    |  |  |  |  /  _____  \  |  `----.|  `----./  _____  \  |  '--'  |    |  |     
+|______/  |__| |_______||_______||__| |_______|   |__|  |__| /__/     \__\ |_______||_______/__/     \__\ |_______/     |__|     
+                                                                                                                                 
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+[Your alias];ROLE%3A+Full-Stack Developer;STATUS%3A+ONLINE" alt="Matrix Typing"/>
 
 </div>
 
@@ -51,16 +51,11 @@ I'm working on streamlining development and deployment, to make the process for 
 <div align="center">
 
 ## 🚀 PROJECT ARCHIVES 🚀
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-
 </div>
 
 <table>
 <tr>
 <td colspan="3">
-
-### 🌐 CLASSIFIED OPERATIONS
 
 </td>
 </tr>
